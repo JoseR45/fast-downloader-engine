@@ -1,0 +1,14 @@
+{
+  "version": "1.0.0",
+  "platforms": {
+    "macos_x86_64": {
+      "file": "fast-downloader-engine",
+      "url": "https://github.com/JoseR45/fast-downloader-engine/releases/download/v1.0.0/fast-downloader-engine",
+      "components": {
+        "yt-dlp": "2026.08.19",
+        "ffmpeg": "9.0.1",
+        "deno": "2.9.6"
+      }
+    }
+  }
+}
